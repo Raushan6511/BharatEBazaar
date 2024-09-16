@@ -12,7 +12,7 @@ import {SafeAreaView, Text} from 'react-native';
 function App(): React.JSX.Element {
   return (
     <SafeAreaView style={{flex: 1, padding: 10}}>
-      <Text>Hello Vibe Pro Deals</Text>
+      <Text>Hello Bharat E-Bazaar</Text>
     </SafeAreaView>
   );
 }
